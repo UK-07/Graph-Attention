@@ -1,4 +1,4 @@
-# graph-attention-for-image-retrieval
+# Graph Attention Networks
 
 A simple implementation of [GRAPH ATTENTION NETWORKS](https://arxiv.org/pdf/1710.10903.pdf), ICLR 2018
 
